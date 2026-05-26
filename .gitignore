@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+pyvenv.cfg
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
